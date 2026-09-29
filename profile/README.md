@@ -18,8 +18,7 @@ O ENEM avalia a redação em cinco competências, cada uma de 0 a 200 pontos. Co
 ### Equipe
 - **Orientação:** Profa. Eliane Maria De Bortoli Fávero
 - **Coorientação:** Prof. Ives Rene Venturini Pola
-- **Bolsista:** Yuri Matsumoto Santos
-- **Colaboradora:** Monica Paula Oliveira Mackert
+- **Bolsistas:** Yuri Matsumoto Santos e Monica Paula Oliveira Mackert
 
 ### Dataset e avaliação
 [essay-br](https://github.com/lplnufpi/essay-br), corpus público de redações argumentativas em português com nota por competência no padrão ENEM. A avaliação é cross-prompt (os temas do teste não aparecem no ajuste), e a métrica principal é o QWK (quadratic weighted kappa) na nota total. A faixa publicada para o essay-br vai de 0,60 a 0,73.
@@ -77,8 +76,7 @@ The ENEM exam scores essays on five competencies, each from 0 to 200. Grading by
 ### Team
 - **Advisor:** Prof. Eliane Maria De Bortoli Fávero
 - **Co-advisor:** Prof. Ives Rene Venturini Pola
-- **Research fellow:** Yuri Matsumoto Santos
-- **Collaborator:** Monica Paula Oliveira Mackert
+- **Research fellows:** Yuri Matsumoto Santos and Monica Paula Oliveira Mackert
 
 ### Dataset and evaluation
 [essay-br](https://github.com/lplnufpi/essay-br), a public corpus of argumentative essays in Portuguese scored per competency following the ENEM standard. Evaluation is cross-prompt (test topics are unseen during tuning) and the main metric is QWK (quadratic weighted kappa) on the total score. Published results for essay-br range from 0.60 to 0.73.
